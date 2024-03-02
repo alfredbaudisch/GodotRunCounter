@@ -9,7 +9,7 @@ The counter is incremented and saved in a text file called `RunCounter.txt` in t
 
 You can customize the destination and the file name in `RunCounter.gd`.
 
-## Is it going to count how many times the player launch the game?
+## Does it also count how many times the player launches the game?
 No, it counts only when running from the editor.
 
 ## Installation
